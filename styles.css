@@ -44,6 +44,12 @@ p {
 	line-height: 23px;
 }
 
+ul {
+	margin-top: -8px;
+    margin-left: 20px;
+    padding: 0;
+}
+
 nav ul li a,
 nav ul li a:hover {
     transition: .4s all ease;
@@ -244,7 +250,7 @@ nav ul li a {
 }
 
 .headerContainer{
-	width: 175px;
+	width: 165px;
 	padding-top:20px;
 }
 
